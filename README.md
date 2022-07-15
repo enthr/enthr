@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m Currently Working On Building Full Stack Web Apps<br>🌱 I’m Currently Learning More About JavaScript<br>⚡ Fun fact JavaScript Works The Same Way I Do Using Event Loop.
+🔭 I’m Currently Working On Building Full Stack Web Apps<br>🌱 I’m Currently Learning More About JavaScript<br>⚡ Fun fact JavaScript Works The Same Way I Do Single Threaded Event Loop.
 
 
 ## 🌐 Socials:
