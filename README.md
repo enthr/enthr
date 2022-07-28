@@ -14,6 +14,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=enthr&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=enthr&theme=vue-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=enthr&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
