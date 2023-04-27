@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React and Node.js**
 
-- 📝 I regularly write articles on [https://codewire.hashnode.dev](https://codewire.hashnode.dev)
+- 📝 I write articles on [https://codewire.hashnode.dev](https://codewire.hashnode.dev)
 
 - 💬 Ask me about **Anything Science & Tech**
 
