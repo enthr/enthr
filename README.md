@@ -8,8 +8,6 @@
 
 - 📝 I write articles on [https://codewire.hashnode.dev](https://codewire.hashnode.dev)
 
-- 💬 Ask me about **Anything Science & Tech**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/thehonoureddev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thehonoureddev" height="30" width="40" /></a>
